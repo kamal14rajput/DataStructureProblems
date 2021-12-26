@@ -36,5 +36,6 @@ public class BinarySearchService {
 				traverse = traverse.left;
 			}
 		}
+
 	}
 }
